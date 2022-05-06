@@ -16,7 +16,7 @@ The results for the six machine learning models including their respective balan
 ![2-SMOTE Oversampling](https://github.com/ScottyMacCVC/Credit_Risk_Analysis/blob/main/Images/2-SMOTE%20Oversampling.PNG)     
 1. Balanced Accuracy: 0.9697
 2. Precision: The precision is low for High-risk loans and is high for Low-risk loans.
-3. Recall: High/Low risk = .64/.66
+3. Recall: High/Low risk = .66/.64
 
 ### Undersampling
 ![3-Undersampling](https://github.com/ScottyMacCVC/Credit_Risk_Analysis/blob/main/Images/3-Undersampling.PNG)     
